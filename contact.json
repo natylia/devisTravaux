@@ -2,7 +2,7 @@
 	"contact": [
 		{
 			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
-			"name": "Nom du client",
+			"name": "test nom client",
 			"adresse": [
 				{
 					"name": "Adresse ",
@@ -36,7 +36,7 @@
 		},
 		{
 			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
-			"name": "Nom du client",
+			"name": "test nom client 1",
 			"adresse": [
 				{
 					"name": "Adresse ",
@@ -70,7 +70,7 @@
 		},
 		{
 			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
-			"name": "Nom du client",
+			"name": "test nom client 2",
 			"adresse": [
 				{
 					"name": "Adresse ",
