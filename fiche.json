@@ -1,0 +1,19 @@
+{
+	"fiche-client": [
+		{
+			"client-nom": "Nom du client",
+			"date": "2018-12-01",
+			"task": "Rajouter un note concernant ce client"
+		},
+		{
+			"client-nom": "Nom du client",
+			"date": "2018-12-01",
+			"task": "Rajouter un note concernant ce client"
+		},
+		{
+			"client-nom": "Nom du client",
+			"date": "2018-12-01",
+			"task": "Rajouter un note concernant ce client"
+		}
+	]
+}
