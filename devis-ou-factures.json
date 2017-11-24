@@ -2,44 +2,20 @@
 	"emetteurNom": "Maina Lenfant",
 	"devis-ou-facture": [
 		{
-			"id": "2",
-			"emetteurNom": "maina lenfant",
-			"date": "2017-11-18",
-			"devis-facture": "Facture 12",
-			"beneficiaire": {
-				"nom": "oiopipoipo",
-				"adresse": "fezfe",
-				"telephone": "fefe"
-			},
-			"services": [
-				{
-					"services-description": "Pi",
-					"amount": "19999"
-				},
-				{}
-			]
-		},
-		{
-			"id": "1",
+			"id": "?",
 			"emetteurNom": "Maina Lenfant",
-			"date": "2017-11-01",
-			"devis-facture": "devis 123",
+			"devis-facture": "Devis ou Facture N° :",
 			"beneficiaire": {
-				"nom": "EZFZEF",
-				"adresse": "CEZCEZCEZ",
-				"telephone": "090909090909"
+				"nom": "Nom du client",
+				"adresse": "Adresse du client",
+				"telephone": "Téléphone du client"
 			},
 			"prix": "€",
 			"services": [
 				{
-					"services-description": "CAREELAGE",
-					"amount": "1000"
-				},
-				{
-					"services-description": "MUR",
-					"amount": "1897"
-				},
-				{}
+					"services-description": "\n                  Description du service :\n                ",
+					"amount": "0"
+				}
 			]
 		}
 	]
