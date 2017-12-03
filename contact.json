@@ -33,40 +33,6 @@
 					"description": " Votre projet travaux"
 				}
 			]
-		},
-		{
-			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
-			"name": "test 2",
-			"adresse": [
-				{
-					"name": "Adresse ",
-					"adresse": "jjlkkk"
-				}
-			],
-			"numeroDeTelephone": [
-				{
-					"name": "Mobile",
-					"telephone": "06 XX XX XX XX"
-				}
-			],
-			"adresseEmail": [
-				{
-					"name": "Email",
-					"email": "email@gmail.com"
-				}
-			],
-			"type": [
-				{
-					"name": " Type",
-					"type": "Société ou particulier"
-				}
-			],
-			"description": [
-				{
-					"name": " Description",
-					"description": " Votre projet travaux"
-				}
-			]
 		}
 	]
 }
